@@ -17,7 +17,7 @@ knit        : slidify::knit2slides
   background-color:#94F4F4;
 }
 </style>
-<div style='float:left;width:50%;background-image: url("assets/img/smart-industry.jpg"); height: 540px; width: 540px;color:#FFF;'>
+<div style='float:left;width:50%;background-image: url("assets/img/smart-industry.jpg"); height: 540px; width: 540px;color:#ff8300;'>
  <h1>Wat is Smart Industry?</h1>
 </div>
 <div style='float:right;width:40%;'>
@@ -36,7 +36,7 @@ knit        : slidify::knit2slides
   background-color:#FFC89A;
 }
 </style>
-<div style='float:left;width:50%;background-image: url("assets/img/robot-worker.jpg"); height: 650px; width: 500px;color:#FFF;'>
+<div style='float:left;width:50%;background-image: url("assets/img/robot-worker.jpg"); height: 650px; width: 500px;color:#ff8300;'>
  <h1>Technologies</h1>
 </div>
 <div style='float:right;width:44%;'>
@@ -55,7 +55,7 @@ knit        : slidify::knit2slides
   background-color:#9DFFD2;
 }
 </style>
-<div style='float:left;width:50%;background-image: url("assets/img/watson.png"); height: 650px; width: 500px;color:#FFF;'>
+<div style='float:left;width:50%;background-image: url("assets/img/watson.png"); height: 650px; width: 500px;color:#ff8300;'>
  <h1>Digitization</h1>
 </div>
 <div style='float:right;width:44%;'>
@@ -74,7 +74,7 @@ knit        : slidify::knit2slides
   background-color:#FFF3F3;
 }
 </style>
-<div style='float:left;width:50%;background-image: url("assets/img/maintenance-predictive.jpg"); height: 420px; width: 500px;color:#FFF;'>
+<div style='float:left;width:50%;background-image: url("assets/img/maintenance-predictive.jpg"); height: 420px; width: 500px;color:#ff8300;'>
  <h1>Network Centric</h1>
 </div>
 <div style='float:right;width:44%;'>
@@ -92,7 +92,7 @@ knit        : slidify::knit2slides
   background-color:#FFF3F3;
 }
 </style>
-<div color:#FFF;'>
+<div style='color:#ff8300;'>
  <h1>Didactisch concept</h1>
  <br><br>
 </div>
