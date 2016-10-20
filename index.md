@@ -1,163 +1,104 @@
 ---
-title       : Financiele Analyse
-subtitle    : College 1
+title       : Minor Smart Industry
+subtitle    : Presentatie Beroepenveld
 author      : Witek ten Hove, MBA
 job         : Docent HAN BKMER
 framework   : CFA2016        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : [quiz]            # {mathjax, quiz, bootstrap}
+widgets     : [angularjs]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
---- .class #slide1 
 
-## Nut en waarde
+--- .class #slide1
 
 <style>
 #slide1 {
-  background-image:url("assets/img/value.jpg"); 
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background-color:#94F4F4;
 }
 </style>
+<div style='float:left;width:50%;background-image: url("assets/img/smart-industry.jpg"); height: 540px; width: 540px;color:#FFF;'>
+ <h1>Wat is Smart Industry?</h1>
+</div>
+<div style='float:right;width:40%;'>
+<h3>"Smart Industry optimaliseert de productie met inzet van ICT en optimaliseert de interactie tussen mens en machine"</h3>
 
---- .class #slide2 
+<br>
+<h4><b><i>Ineke Dezentjé Hamming-Bluemink</i></b></h4>
+<h4><i>Voorzitter Team Smart Industry</i></h4>
+  
+</div>
 
-## Wat is nut?
+--- .class #slide2
 
 <style>
 #slide2 {
-  background-color:#F795EB;
+  background-color:#FFC89A;
 }
 </style>
-![nut plaatje](assets/img/nut.jpg)
-[Source](http://knowledge.wharton.upenn.edu/wp-content/uploads/2013/10/p.19.a.jpg)
+<div style='float:left;width:50%;background-image: url("assets/img/robot-worker.jpg"); height: 650px; width: 500px;color:#FFF;'>
+ <h1>Technologies</h1>
+</div>
+<div style='float:right;width:44%;'>
+<h3>"Technologie moet antwoord geven op werkelijke vragen die we hebben"</h3>
 
---- .class #slide3 
+<br>
+<h4><b><i>Stef Beumer</i></b></h4>
+<h4><i>Directeur O4 Wheelchairs</i></h4>
+  
+</div>
 
-## Wat is waarde?
+--- .class #slide3
+
 <style>
 #slide3 {
-  background-image:url("assets/img/huis.jpg"); 
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background-color:#9DFFD2;
 }
 </style>
-> For, while value reflects utility,
-> the mirror is too small to hold all the picture.
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-[Source](http://fd.nl/images/06/42/03/inline/1280x0/high/huis-te-koop-vollenhove-01kopie.jpg?v=22)
+<div style='float:left;width:50%;background-image: url("assets/img/watson.png"); height: 650px; width: 500px;color:#FFF;'>
+ <h1>Digitization</h1>
+</div>
+<div style='float:right;width:44%;'>
+<h3>"What's the price of not knowing?"</h3>
 
---- .class #slide4 
+<br>
+<h4><b><i>John E. Kelly</i></b></h4>
+<h4><i>Senior Vice President, Cognitive Solutions and IBM Research</i></h4>
+  
+</div>
 
-## Economische waarde?
+--- .class #slide4
+
 <style>
 #slide4 {
-  background-image:url("assets/img/huiswaarde.jpg"); 
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background-color:#FFF3F3;
 }
 </style>
+<div style='float:left;width:50%;background-image: url("assets/img/maintenance-predictive.jpg"); height: 420px; width: 500px;color:#FFF;'>
+ <h1>Network Centric</h1>
+</div>
+<div style='float:right;width:44%;'>
+<h3>"Transparency along the entire value stream in real-time"</h3>
+
+<br>
+<b><i>Quote taken from Bosch <a href="http://ec2-52-30-100-113.eu-west-1.compute.amazonaws.com/pluginfile.php/163/mod_lesson/page_contents/16/bosch.mp4">company video</a></i></b>
+  
+</div>
 
 --- .class #slide5
 
 <style>
 #slide5 {
-  background-color:#94F4F4;
-}
-</style>
-<div style='float:left;width:50%;background-image: url("assets/img/markthal.jpg"); height: 650px; width: 500px;color:#FFF;'>
- <h1>Wat is Economie?</h1>
-</div>
-<div style='float:right;width:44%;'>
-<h3>"Als iedere economische agent zijn persoonlijke <b>nut</b> maximaliseert, wordt de meeste <b>waarde</b> uit de <b>beschikbare middelen</b> gegenereerd"</h3><br><br><h3>~ <i>Invisible Hand (vrij vertaald)</i></h3>
-  
-</div>
-
---- .class #slide6
-
-<style>
-#slide6 {
-  background-color:#FFC89A;
-}
-</style>
-
-<div style='float:left;width:50%;background-image: url("assets/img/eye.jpg"); height: 650px; width: 500px;color:#FFF;'>
- <h1>Homo Economicus</h1>
-</div>
-<div style='float:right;width:47%;'>
-
-<ul>
-  <li>Beslist rationeel</li>
-  <li><b>Niet</b> altruistisch</li>
-  <li>Optimaliseert nut</li>
-</ul>
-
-</div>
-
---- .class #slide7
-
-<style>
-#slide7 {
-  background-color:#F3FFF3;
-}
-</style>
-
-<div style='float:left;width:50%;background-image: url("assets/img/exchange.jpg"); height: 650px; width: 500px;color:#FFF;'>
- <h2>C-Cluster: Financiele Analyse</h2>
-</div>
-<div style='float:right;width:47%;'>
-
-<ul>
-  <li>Financieringsbeslissingen</li>
-</ul>
-
-</div>
-
---- .class #slide8
-
-<style>
-#slide8 {
   background-color:#FFF3F3;
 }
 </style>
-
-<div style='float:left;width:50%;background-image: url("assets/img/production.jpg"); height: 650px; width: 500px;color:#FFF;'>
- <h2>D-Cluster: Planning & Control</h2>
-</div>
-<div style='float:right;width:47%;'>
-
-<ul>
-  <li>Productiebeslissingen</li>
-  <li>Investeringsbeslissingen</li>
-</ul>
-
+<div color:#FFF;'>
+ <h1>Didactisch concept</h1>
+ <br><br>
 </div>
 
---- .class #slide9
 
-<style>
-#slide9 {
-  background-color:#F2FEFE;
-}
-</style>
+<iframe src="diagram.html"></iframe>
 
-<div style='float:left;width:50%;background-image: url("assets/img/watson.png"); height: 650px; width: 500px;color:#FFF;'>
- <h2>E-Cluster: Innovatie- & Verander- Management </h2>
-</div>
-<div style='float:right;width:47%;'>
 
-<ul>
-  <li>Investeringsbeslissingen</li>
-  <ul>
-     <li>Tactisch</li>
-     <li>Strategisch</li>
-  </ul>
-  <li>Behavioral Economics</li>
-</ul>
-
-</div>
 
