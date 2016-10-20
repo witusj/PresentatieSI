@@ -97,7 +97,6 @@ knit        : slidify::knit2slides
  <br><br>
 </div>
 
-
 <iframe src="diagram.html"></iframe>
 
 

@@ -97,11 +97,6 @@ knit        : slidify::knit2slides
  <br><br>
 </div>
 
-```{r echo=FALSE, warning=FALSE, cache=FALSE, message=FALSE, results='asis'}
-source("Diagram1.R")
-library(htmlwidgets)
-fff <- render_graph(graph)
-```
 <iframe src="diagram.html"></iframe>
 
 

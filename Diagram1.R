@@ -6,6 +6,7 @@
 
 library(DiagrammeR)
 library(gsheet)
+library(htmlwidgets)
 
 edgeData <-
   gsheet2tbl(
@@ -65,4 +66,5 @@ graph$nodes_df
 
 graph$edges_df
 
-render_graph(graph)
+fff <- render_graph(graph)
+saveWidget(fff, 'diagram.html')
